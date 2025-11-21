@@ -1,4 +1,4 @@
-# 🛒 Market Basket Analysis – Online Retail Dataset (R)
+# 🛒 Market Basket Analysis – Online Retail Dataset (R) 
 
 ## 📌 Project Overview
 
@@ -29,3 +29,5 @@ United Kingdom, Germany, and France.
 ## 🧾 Conclusion
 
 MBA revealed valuable insights into customer purchasing patterns that can support strategic bundling, regional marketing, and inventory planning. Country-specific behavior highlights opportunities for localized product positioning and cross-selling initiatives.
+
+🎓 Academic Context: This repository documents one of the applied projects completed for the Data Mining module in my MSc in Data Science programme (May 2025).All results, code, and design choices are provided for educational purposes; actual performance may vary across environments and dataset revisions.
